@@ -15,7 +15,7 @@
 
 - I’m currently a student from Microverse
 
-- I was a medical student but lowe programming
+- I was a medical student but love programming
 
 - Trying my best to become a good programmer
 
