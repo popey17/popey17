@@ -4,7 +4,7 @@
 <!--   <img src="My Logo white.png" alt="logo" width="140"  height="auto" /> -->
   <br/> 
 
-  <h3><b>Welcome To Leo(Popey)'s Github</b></h3><br/>
+  <h1><b>Welcome To Leo(Popey)'s Github</b></h1><br/>
   <hr>
   <br/>
 
