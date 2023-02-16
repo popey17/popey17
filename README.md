@@ -5,7 +5,6 @@
   <br/> 
 
   <h1><b>Welcome To Leo(Popey)'s Github</b></h1><br/>
-  <hr>
   <br/>
 
 </div>
