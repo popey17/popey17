@@ -1,14 +1,16 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="My Logo white.png" alt="logo" width="140"  height="auto" />
-  <br/>
+<!--   <img src="My Logo white.png" alt="logo" width="140"  height="auto" /> -->
+<!--   <br/> -->
 
-  <h3><b>Welcome To Popey's Github</b></h3>
+  <h3><b>Welcome To Popey's Github</b></h3><br/>
+  <hr>
+  <br/>
 
 </div>
 
-<p><img align="right" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" alt="adam-pw" /></p>
+<p><img align="right" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
