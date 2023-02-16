@@ -10,7 +10,7 @@
 
 </div>
 
-<p><iframe align="right" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p></p>
+<p><img align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.mp4?cid=ecf05e47fji7xd3d0jfg68y1wnhhn6uaq7xbw6y6zk3mn1zf&rid=giphy.mp4&ct=g" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
