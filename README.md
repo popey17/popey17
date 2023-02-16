@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p><img align="right" src="Coding.gif" alt="Coding gif" /></p><br/>
+<p><img align="right" src="Coding.gif" alt="Coding gif" width = 200px /></p>
 
 - I’m currently a student from Microverse
 
