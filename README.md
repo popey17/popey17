@@ -12,8 +12,6 @@
 
 <p><img align="right" src="Coding.gif" alt="Coding gif" width = 300px /></p>
 
-- I’m currently a student from Microverse
-
 - I was a medical student but love programming
 
 - Trying my best to become a good programmer
